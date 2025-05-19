@@ -1,4 +1,6 @@
 # DeeperSQL Software Detailed Tutorial
+## 语言切换 
+[简体中文](README.zh-CN.md)
 
 ## Tutorial Contents
 * 1. Software Introduction
