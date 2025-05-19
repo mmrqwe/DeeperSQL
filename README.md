@@ -1,6 +1,10 @@
 # DeeperSQL Software Detailed Tutorial
 ## Language Change 
 [简体中文](README.zh-CN.md)
+[Deutsch](README.de-DE.md)
+[Français](README.fr-FR.md)
+[日本語](README.ja-JP.md)
+[繁體中文](README.zh-TW.md)
 
 ## Tutorial Contents
 * 1. Software Introduction
