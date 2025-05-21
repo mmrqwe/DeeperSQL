@@ -23,7 +23,7 @@ DeeperSQL ist ein multifunktionales Werkzeug, das intelligente Excel-Interaktion
 * Abhängigkeiten: .NET 8.0 oder höher
 ### 2.2 Installationsschritte
 1. Laden Sie das neueste Installationspaket herunter.
-2. Stellen Sie die .NET-Komponentenunterstützung sicher, mit Online-/Offline-Großmodell- und Embedded-Modell-Unterstützung.
+2. Stellen Sie sicher, dass .NET-Komponenten unterstützt werden, mit Online-/Offline-Unterstützung für große Modelle. (Mit eingebettetem Modell).
 3. Führen Sie das Hauptprogramm `DeeperSQL` aus.
 ### 2.3 Starten der Software
 1. Doppelklicken Sie auf die ausführbare Datei.
@@ -113,4 +113,5 @@ Bietet API-Dienste für die intelligente SQL-Interaktion.
 
 ## 6. Kontakt & Support
 Bei Fragen oder Anregungen wenden Sie sich bitte an das Entwicklungsteam:
+* Da mein Code genauso chaotisch ist wie mein Leben, ist er vorläufig nicht Open Source. Bitte haben Sie Verständnis.
 * E-Mail: deepersql@hotmail.com

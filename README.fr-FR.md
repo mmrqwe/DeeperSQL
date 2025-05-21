@@ -23,7 +23,7 @@ DeeperSQL est un outil multifonctionnel qui intègre l'interaction intelligente 
 * Dépendances : .NET 8.0 ou supérieur
 ### 2.2 Étapes d'Installation
 1. Téléchargez le dernier package d'installation.
-2. Assurez-vous du support des composants .NET, avec le support des grands modèles en ligne/hors ligne et des modèles embarqués.
+2. Assurez-vous de la prise en charge des composants .NET, avec support de grands modèles en ligne/hors ligne. (Modèle intégré inclus).
 3. Exécutez le programme principal `DeeperSQL`.
 ### 2.3 Lancement du Logiciel
 1. Double-cliquez sur le fichier exécutable.
@@ -113,4 +113,5 @@ Fournit des services API pour l'interaction SQL intelligente.
 
 ## 6. Contact & Support
 Pour des questions ou suggestions, veuillez contacter l'équipe de développement :
+* Comme mon code est aussi désordonné que ma vie, il n'est pas open source pour le moment. Merci de votre compréhension.
 * Email : deepersql@hotmail.com
